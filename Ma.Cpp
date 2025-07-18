@@ -6,6 +6,8 @@ int main(int argc, char const *argv[])
     int nSubT = 0;
     int nnn = 4
 //"마연수 늘새로움"
-    int nS
+//신입이 새로운 작업을 추가했음
+
+    int nSum3 = 1;
     return 0;
 }
